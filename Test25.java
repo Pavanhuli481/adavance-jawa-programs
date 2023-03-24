@@ -1,3 +1,4 @@
+//assignment or surprise test 02
 //creating a binary file student.dat
 import java.io.*;
 import java.util.Scanner;
